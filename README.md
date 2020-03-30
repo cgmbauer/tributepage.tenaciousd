@@ -1,4 +1,3 @@
-# My-freeCodeCamp-Projects
-Projects from freeCodeCamp 
+# TenaciousD Tribute Page
 
-adicionado
+Here I will put my tribute page project from the freeCodeCamp Responsive Web Design Projects.
