@@ -2,6 +2,7 @@
 
 This was my first project, made as part of the freeCodeCamp's Responsive Web Design Projects. The thing is, the first version of it was not responsive at all.  
 To address this problem, I'm recreating the website on my spare time, but trying to not go very far from what a first intended when I built the first version. So the goal here is not to improve the original design in general, but to add the mobile friendly aspect.  
+
 Since I'm changing the CSS and HTML file, I decided to translate the content to english, to reach out more people.
 You can checkout the original version on the branch [oldversion](https://github.com/cgmbauer/tributepage.tenaciousd/tree/oldversion).  
 
